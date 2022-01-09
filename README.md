@@ -1,4 +1,4 @@
-# House PricePrediction with Linear Regression
+# House Price Prediction with Linear Regression
 
 Linear regression analysis;
 It is used to estimate the value of one variable relative to the value of 
@@ -12,7 +12,7 @@ that minimizes mismatches between predicted and actual output
 values. There are simple linear regression calculators that use the 
 "least squares" method to discover the best fit row for a pair of 
 paired datasets. Next, you predict the value of X (the dependent 
-variable) from Y (the independent variable).
+variable) from Y (the independent variable). </br> </br> 
 Implementations steps;
 First, I read the data for our app.
 I assigned the part we want to predict from the data we read to the 
@@ -40,6 +40,9 @@ learned before to x_test data. I stored these prediction results in the
 y_pred variable. At this stage, we have already found my results. 
 After that we had to apply RMSE to measure the accuracy of our 
 model. In this part, I used 3 different evaluation methods as RMSE, 
-MSE and r2 score. You can see their output below.
+MSE and r2 score. </br> </br> 
+You can see their output below.
+</br> </br> 
 ![UML](https://github.com/isinsuarici/HousePricePredictionwithLR/blob/master/img/output1.png)
+</br> 
 ![UML](https://github.com/isinsuarici/HousePricePredictionwithLR/blob/master/img/output2.png)
