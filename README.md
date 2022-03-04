@@ -46,3 +46,11 @@ You can see their output below.
 ![UML](https://github.com/isinsuarici/HousePricePredictionwithLR/blob/master/img/output1.png)
 </br> 
 ![UML](https://github.com/isinsuarici/HousePricePredictionwithLR/blob/master/img/output2.png)
+
+# Requirements
+
+**1. Numpy**
+
+**2. Pandas**
+
+**3. Sklearn**
